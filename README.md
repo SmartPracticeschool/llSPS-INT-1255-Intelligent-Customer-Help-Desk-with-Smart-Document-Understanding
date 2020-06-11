@@ -13,7 +13,7 @@ To take it a step further, the project shall use the Smart Document Understandin
 * Build a web application with integration to all these services & deploy the same on IBM Cloud Platform
 
 ***The link to the chatbot is:
-https://node-red-dktrz.eu-gb.mybluemix.net/ui ***
+https://node-red-dktrz.eu-gb.mybluemix.net/ui***
 
 ***The link to the video uploaded in YouTube is:
-https://www.youtube.com/watch?v=7N5R_yJjd9A ***
+https://www.youtube.com/watch?v=7N5R_yJjd9A***
