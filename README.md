@@ -17,3 +17,6 @@ https://node-red-dktrz.eu-gb.mybluemix.net/ui***
 
 ***The link to the video uploaded in YouTube is:
 https://youtu.be/f_BFGa3NyK8***
+
+***Feedback link:
+https://photos.app.goo.gl/U9F6mpKW8KszihsW6***
