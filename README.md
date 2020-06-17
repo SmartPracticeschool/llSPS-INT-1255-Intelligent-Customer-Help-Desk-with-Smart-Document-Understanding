@@ -16,4 +16,4 @@ To take it a step further, the project shall use the Smart Document Understandin
 https://node-red-dktrz.eu-gb.mybluemix.net/ui***
 
 ***The link to the video uploaded in YouTube is:
-https://www.youtube.com/watch?v=7N5R_yJjd9A***
+https://youtu.be/f_BFGa3NyK8***
